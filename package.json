@@ -1,0 +1,25 @@
+{
+  "name": "one-at-a-time",
+  "version": "1.0.0",
+  "description": "let async functions run one at a time",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "one",
+    "at",
+    "a",
+    "time",
+    "async"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcw/one-at-a-time.git"
+  }
+}
