@@ -1,5 +1,7 @@
 # one-at-a-time
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/one-at-a-time.svg)](https://greenkeeper.io/)
+
 let async functions run one at a time
 
 
